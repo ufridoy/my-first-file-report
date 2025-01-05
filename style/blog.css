@@ -1,0 +1,25 @@
+.revel{
+    color: blue;
+    background-color: blueviolet;
+    width: 25%;
+    height: 500px;
+}
+.esse{
+    color: blue;
+    background-color: blueviolet;
+    width: 25%;
+    height: 500px;
+}
+.lorem{
+    color: blue;
+    background-color: blueviolet;
+    width: 25%;
+    height: 500px;
+}
+#main{
+   display: flex;
+   
+}
+.margin{
+    margin: 100px;
+}
