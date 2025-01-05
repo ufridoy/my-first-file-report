@@ -37,3 +37,9 @@ ul, ol{
     width: 81%;
     padding: 30px;
 }
+input{
+    color: blue;
+}
+input[type="password"]{
+    color: red;
+}
