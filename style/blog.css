@@ -1,25 +1,39 @@
 .revel{
-    color: blue;
     background-color: blueviolet;
     width: 25%;
     height: 500px;
+    padding: 30px;
 }
 .esse{
-    color: blue;
     background-color: blueviolet;
     width: 25%;
     height: 500px;
+    padding: 30px;
 }
 .lorem{
-    color: blue;
     background-color: blueviolet;
     width: 25%;
     height: 500px;
+    padding: 30px;
 }
 #main{
    display: flex;
+   color: yellowgreen;
+   
    
 }
 .margin{
     margin: 30px;
+}
+ul, ol{
+    margin-right: 100px;
+}
+.item{
+    color: brown;
+    font-size: 36px;
+    display: flex;
+    margin-left: 30px;
+    background-color: aquamarine;
+    width: 81%;
+    padding: 30px;
 }
